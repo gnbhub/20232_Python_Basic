@@ -1,6 +1,6 @@
 # 20232_Python_Basic
 
-[2023 2nd semester] A Study about C
+[2023 2nd semester] A Study about Python
 
 - Time : 매주 월요일 7 PM ~ 9 PM
 - Materials : 개인 노트북 지참
